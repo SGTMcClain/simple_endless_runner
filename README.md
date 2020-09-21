@@ -1,4 +1,13 @@
-# Start_Unity_Github_Project
+# Simple Endless Runner
+
+## Getting Started
+1. Start a 2D unity project
+2. Copy the root of the project folder over to the location of the Git repository 
+3. In the Game tab make sure the display is 16:9 
+4. [Download the Standard Asset for Unity 2018.4](https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-for-unity-2018-4-32351)
+5. Import the standard asset pack
+
+## Start_Unity_Github_Project
 Use this template to start a Unity3D project using Git and Github. 
 
 The goal of this repository is to make it easy to get started with source control in Unity.  
